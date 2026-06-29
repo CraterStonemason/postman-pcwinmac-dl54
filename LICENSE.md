@@ -1,4 +1,4 @@
-# 
+# Seguro Postman herramientas para Mac OS | Instantáneo Postman herramientas para PC Windows. Con gestión de usuarios y clonación de repositorios — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
